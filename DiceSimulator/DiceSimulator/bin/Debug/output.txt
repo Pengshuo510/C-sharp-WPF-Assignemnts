@@ -1,0 +1,52 @@
+36,  3,  3 
+1,  4,  2 
+5,  5 
+6,  6 
+3,  1 
+New run starting at October 11, 2020 15:16:22
+Saved 1 times.
+5,  6 
+6,  5 
+4,  4 
+New run starting at October 11, 2020 15:16:47
+Saved 1 times.
+3,  6 
+3,  6 
+3,  5 
+Saved 2 times.
+5,  1 
+Saved 3 times.
+4,  2 
+Saved 4 times.
+1,  4 
+New run starting at October 11, 2020 15:18:01
+Saved 1 times.
+5, 6 
+5, 1 
+Saved 2 times.
+3, 2 
+Saved 1 times.
+1, 4 
+2, 2 
+6, 6 
+4, 4 
+6, 3 
+6, 1 
+1, 1 
+2, 5 
+5, 4 
+6, 1 
+Saved 2 times.
+4, 6 
+2, 6 
+5, 2 
+Saved 1 times.
+5, 5 
+4, 2 
+3, 6 
+Saved 2 times.
+1, 4 
+4, 1 
+Saved 3 times.
+3, 6 
+4, 3 

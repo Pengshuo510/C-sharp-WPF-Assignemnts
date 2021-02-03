@@ -1,0 +1,15 @@
+C:\Users\Pengs\source\repos\DiceSimulator\DiceSimulator\obj\Debug\DiceSimulator.csprojAssemblyReference.cache
+C:\Users\Pengs\source\repos\DiceSimulator\DiceSimulator\obj\Debug\MainWindow.g.cs
+C:\Users\Pengs\source\repos\DiceSimulator\DiceSimulator\obj\Debug\App.g.cs
+C:\Users\Pengs\source\repos\DiceSimulator\DiceSimulator\obj\Debug\DiceSimulator_MarkupCompile.cache
+C:\Users\Pengs\source\repos\DiceSimulator\DiceSimulator\obj\Debug\DiceSimulator_MarkupCompile.lref
+C:\Users\Pengs\source\repos\DiceSimulator\DiceSimulator\bin\Debug\DiceSimulator.exe.config
+C:\Users\Pengs\source\repos\DiceSimulator\DiceSimulator\bin\Debug\DiceSimulator.exe
+C:\Users\Pengs\source\repos\DiceSimulator\DiceSimulator\bin\Debug\DiceSimulator.pdb
+C:\Users\Pengs\source\repos\DiceSimulator\DiceSimulator\obj\Debug\MainWindow.baml
+C:\Users\Pengs\source\repos\DiceSimulator\DiceSimulator\obj\Debug\DiceSimulator.g.resources
+C:\Users\Pengs\source\repos\DiceSimulator\DiceSimulator\obj\Debug\DiceSimulator.Properties.Resources.resources
+C:\Users\Pengs\source\repos\DiceSimulator\DiceSimulator\obj\Debug\DiceSimulator.csproj.GenerateResource.cache
+C:\Users\Pengs\source\repos\DiceSimulator\DiceSimulator\obj\Debug\DiceSimulator.csproj.CoreCompileInputs.cache
+C:\Users\Pengs\source\repos\DiceSimulator\DiceSimulator\obj\Debug\DiceSimulator.exe
+C:\Users\Pengs\source\repos\DiceSimulator\DiceSimulator\obj\Debug\DiceSimulator.pdb
