@@ -1,0 +1,55 @@
+C:\Users\Cong\source\repos\PopulationDBMS\bin\Debug\PopulationDBMS.exe.config
+C:\Users\Cong\source\repos\PopulationDBMS\bin\Debug\PopulationDBMS.exe
+C:\Users\Cong\source\repos\PopulationDBMS\bin\Debug\PopulationDBMS.pdb
+C:\Users\Cong\source\repos\PopulationDBMS\obj\Debug\PopulationDBMS.csprojAssemblyReference.cache
+C:\Users\Cong\source\repos\PopulationDBMS\obj\Debug\EditWindow.g.cs
+C:\Users\Cong\source\repos\PopulationDBMS\obj\Debug\MainWindow.g.cs
+C:\Users\Cong\source\repos\PopulationDBMS\obj\Debug\App.g.cs
+C:\Users\Cong\source\repos\PopulationDBMS\obj\Debug\PopulationDBMS_MarkupCompile.cache
+C:\Users\Cong\source\repos\PopulationDBMS\obj\Debug\PopulationDBMS_MarkupCompile.lref
+C:\Users\Cong\source\repos\PopulationDBMS\obj\Debug\EditWindow.baml
+C:\Users\Cong\source\repos\PopulationDBMS\obj\Debug\MainWindow.baml
+C:\Users\Cong\source\repos\PopulationDBMS\obj\Debug\PopulationDBMS.g.resources
+C:\Users\Cong\source\repos\PopulationDBMS\obj\Debug\PopulationDBMS.Properties.Resources.resources
+C:\Users\Cong\source\repos\PopulationDBMS\obj\Debug\PopulationDBMS.csproj.GenerateResource.cache
+C:\Users\Cong\source\repos\PopulationDBMS\obj\Debug\PopulationDBMS.csproj.CoreCompileInputs.cache
+C:\Users\Cong\source\repos\PopulationDBMS\obj\Debug\PopulationDBMS.exe
+C:\Users\Cong\source\repos\PopulationDBMS\obj\Debug\PopulationDBMS.pdb
+C:\Users\Cong\Desktop\PopulationDBMS\bin\Debug\PopulationDBMS.exe.config
+C:\Users\Cong\Desktop\PopulationDBMS\bin\Debug\PopulationDBMS.exe
+C:\Users\Cong\Desktop\PopulationDBMS\bin\Debug\PopulationDBMS.pdb
+C:\Users\Cong\Desktop\PopulationDBMS\obj\Debug\PopulationDBMS.csprojAssemblyReference.cache
+C:\Users\Cong\Desktop\PopulationDBMS\obj\Debug\EditWindow.g.cs
+C:\Users\Cong\Desktop\PopulationDBMS\obj\Debug\MainWindow.g.cs
+C:\Users\Cong\Desktop\PopulationDBMS\obj\Debug\App.g.cs
+C:\Users\Cong\Desktop\PopulationDBMS\obj\Debug\PopulationDBMS_MarkupCompile.cache
+C:\Users\Cong\Desktop\PopulationDBMS\obj\Debug\PopulationDBMS_MarkupCompile.lref
+C:\Users\Cong\Desktop\PopulationDBMS\obj\Debug\EditWindow.baml
+C:\Users\Cong\Desktop\PopulationDBMS\obj\Debug\MainWindow.baml
+C:\Users\Cong\Desktop\PopulationDBMS\obj\Debug\PopulationDBMS.g.resources
+C:\Users\Cong\Desktop\PopulationDBMS\obj\Debug\PopulationDBMS.Properties.Resources.resources
+C:\Users\Cong\Desktop\PopulationDBMS\obj\Debug\PopulationDBMS.csproj.GenerateResource.cache
+C:\Users\Cong\Desktop\PopulationDBMS\obj\Debug\PopulationDBMS.csproj.CoreCompileInputs.cache
+C:\Users\Cong\Desktop\PopulationDBMS\obj\Debug\PopulationDBMS.exe
+C:\Users\Cong\Desktop\PopulationDBMS\obj\Debug\PopulationDBMS.pdb
+C:\Users\Cong\Desktop\PopulationDBMS\obj\Debug\Report.g.cs
+C:\Users\Cong\Desktop\PopulationDBMS\obj\Debug\Report.baml
+C:\Users\Pengs\Documents\8010_Programming Software\PopulationDBMS\bin\Debug\PopulationDBMS.exe.config
+C:\Users\Pengs\Documents\8010_Programming Software\PopulationDBMS\bin\Debug\PopulationDBMS.exe
+C:\Users\Pengs\Documents\8010_Programming Software\PopulationDBMS\bin\Debug\PopulationDBMS.pdb
+C:\Users\Pengs\Documents\8010_Programming Software\PopulationDBMS\obj\Debug\PopulationDBMS.csprojAssemblyReference.cache
+C:\Users\Pengs\Documents\8010_Programming Software\PopulationDBMS\obj\Debug\EditWindow.g.cs
+C:\Users\Pengs\Documents\8010_Programming Software\PopulationDBMS\obj\Debug\MainWindow.g.cs
+C:\Users\Pengs\Documents\8010_Programming Software\PopulationDBMS\obj\Debug\Report.g.cs
+C:\Users\Pengs\Documents\8010_Programming Software\PopulationDBMS\obj\Debug\App.g.cs
+C:\Users\Pengs\Documents\8010_Programming Software\PopulationDBMS\obj\Debug\PopulationDBMS_MarkupCompile.cache
+C:\Users\Pengs\Documents\8010_Programming Software\PopulationDBMS\obj\Debug\PopulationDBMS_MarkupCompile.lref
+C:\Users\Pengs\Documents\8010_Programming Software\PopulationDBMS\obj\Debug\EditWindow.baml
+C:\Users\Pengs\Documents\8010_Programming Software\PopulationDBMS\obj\Debug\MainWindow.baml
+C:\Users\Pengs\Documents\8010_Programming Software\PopulationDBMS\obj\Debug\Report.baml
+C:\Users\Pengs\Documents\8010_Programming Software\PopulationDBMS\obj\Debug\PopulationDBMS.g.resources
+C:\Users\Pengs\Documents\8010_Programming Software\PopulationDBMS\obj\Debug\PopulationDBMS.Properties.Resources.resources
+C:\Users\Pengs\Documents\8010_Programming Software\PopulationDBMS\obj\Debug\PopulationDBMS.csproj.GenerateResource.cache
+C:\Users\Pengs\Documents\8010_Programming Software\PopulationDBMS\obj\Debug\PopulationDBMS.csproj.CoreCompileInputs.cache
+C:\Users\Pengs\Documents\8010_Programming Software\PopulationDBMS\obj\Debug\PopulationDBMS.exe
+C:\Users\Pengs\Documents\8010_Programming Software\PopulationDBMS\obj\Debug\PopulationDBMS.pdb
