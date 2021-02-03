@@ -1,0 +1,15 @@
+C:\Users\Pengs\source\repos\JaggedArrayOfExamScores\JaggedArrayOfExamScores\bin\Debug\JaggedArrayOfExamScores.exe.config
+C:\Users\Pengs\source\repos\JaggedArrayOfExamScores\JaggedArrayOfExamScores\bin\Debug\JaggedArrayOfExamScores.exe
+C:\Users\Pengs\source\repos\JaggedArrayOfExamScores\JaggedArrayOfExamScores\bin\Debug\JaggedArrayOfExamScores.pdb
+C:\Users\Pengs\source\repos\JaggedArrayOfExamScores\JaggedArrayOfExamScores\obj\Debug\JaggedArrayOfExamScores.csprojAssemblyReference.cache
+C:\Users\Pengs\source\repos\JaggedArrayOfExamScores\JaggedArrayOfExamScores\obj\Debug\MainWindow.g.cs
+C:\Users\Pengs\source\repos\JaggedArrayOfExamScores\JaggedArrayOfExamScores\obj\Debug\App.g.cs
+C:\Users\Pengs\source\repos\JaggedArrayOfExamScores\JaggedArrayOfExamScores\obj\Debug\JaggedArrayOfExamScores_MarkupCompile.cache
+C:\Users\Pengs\source\repos\JaggedArrayOfExamScores\JaggedArrayOfExamScores\obj\Debug\JaggedArrayOfExamScores_MarkupCompile.lref
+C:\Users\Pengs\source\repos\JaggedArrayOfExamScores\JaggedArrayOfExamScores\obj\Debug\MainWindow.baml
+C:\Users\Pengs\source\repos\JaggedArrayOfExamScores\JaggedArrayOfExamScores\obj\Debug\JaggedArrayOfExamScores.g.resources
+C:\Users\Pengs\source\repos\JaggedArrayOfExamScores\JaggedArrayOfExamScores\obj\Debug\JaggedArrayOfExamScores.Properties.Resources.resources
+C:\Users\Pengs\source\repos\JaggedArrayOfExamScores\JaggedArrayOfExamScores\obj\Debug\JaggedArrayOfExamScores.csproj.GenerateResource.cache
+C:\Users\Pengs\source\repos\JaggedArrayOfExamScores\JaggedArrayOfExamScores\obj\Debug\JaggedArrayOfExamScores.csproj.CoreCompileInputs.cache
+C:\Users\Pengs\source\repos\JaggedArrayOfExamScores\JaggedArrayOfExamScores\obj\Debug\JaggedArrayOfExamScores.exe
+C:\Users\Pengs\source\repos\JaggedArrayOfExamScores\JaggedArrayOfExamScores\obj\Debug\JaggedArrayOfExamScores.pdb
